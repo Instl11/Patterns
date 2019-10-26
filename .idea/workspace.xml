@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf582e90-f7b2-472b-96c9-fefbceba3b30" name="Default Changelist" comment="add gitignore" />
-    <list id="0c5bad9f-c3a5-49d8-a09f-bbdaa27bdbd1" name="Revert &quot;gitignore&quot;" comment="Revert &quot;gitignore&quot;&#10;&#10;This reverts commit 364a16fe">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="bf582e90-f7b2-472b-96c9-fefbceba3b30" name="Default Changelist" comment="fixup! asdas" />
+    <list id="0c5bad9f-c3a5-49d8-a09f-bbdaa27bdbd1" name="Revert &quot;gitignore&quot;" comment="Revert &quot;gitignore&quot;&#10;&#10;This reverts commit 364a16fe" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -207,7 +206,49 @@
       <option name="project" value="LOCAL" />
       <updated>1572111532115</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="A">
+      <created>1572111846613</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1572111846613</updated>
+    </task>
+    <task id="LOCAL-00007" summary="B">
+      <created>1572111857284</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1572111857284</updated>
+    </task>
+    <task id="LOCAL-00008" summary="B">
+      <created>1572111899438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572111899438</updated>
+    </task>
+    <task id="LOCAL-00009" summary="C">
+      <created>1572117058498</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1572117058498</updated>
+    </task>
+    <task id="LOCAL-00010" summary="C psvm">
+      <created>1572117082665</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1572117082665</updated>
+    </task>
+    <task id="LOCAL-00011" summary="C sout">
+      <created>1572117096067</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1572117096067</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,12 +265,17 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="B" />
-    <MESSAGE value="B" />
     <MESSAGE value="add .gitignore" />
     <MESSAGE value="workspace" />
     <MESSAGE value="add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
+    <MESSAGE value="A" />
+    <MESSAGE value="B" />
+    <MESSAGE value="B" />
+    <MESSAGE value="A*B" />
+    <MESSAGE value="C" />
+    <MESSAGE value="C psvm" />
+    <MESSAGE value="C sout" />
+    <option name="LAST_COMMIT_MESSAGE" value="C sout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
