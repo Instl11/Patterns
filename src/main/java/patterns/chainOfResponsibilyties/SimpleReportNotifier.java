@@ -2,7 +2,6 @@ package patterns.chainOfResponsibilyties;
 
 public class SimpleReportNotifier extends Notifier {
 
-
     public SimpleReportNotifier(int priority) {
         super(priority);
     }
